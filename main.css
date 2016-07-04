@@ -1,3 +1,7 @@
+body {
+    background: gray
+}
+
 p {
     width: 0px;
     height: 0px;
@@ -34,4 +38,34 @@ h2 {
     border-left: 100px solid darkblue;
 }
 
-   
+h3 {
+    display: inline-block;
+    background: rgb(20, 30, 80);
+    width: 250px;
+    height: 160px;
+    padding-top: 20px;
+    margin: 0px 10px;
+}
+
+a {
+    font-size: 50px;
+    color: white;
+    font-family: arial;
+}
+
+span {
+    font-size: 20px;
+    color: white;
+    font-family: arial;
+}
+
+h4 {
+    display: inline-block;
+    background: white;
+    width: 150px;
+    height: 110px;
+    padding: 50px;
+    padding-top: 20px;
+    margin: 0px 10px;
+    color: lightgray;
+}
